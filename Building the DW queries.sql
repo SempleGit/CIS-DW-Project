@@ -101,8 +101,6 @@ Delete From D
 	Where Row > 1;
 
 Go
-	--Had to look this up, my solutions would delete all the rows that were duplicated.
-	--https://www.sqlservertutorial.net/sql-server-basics/delete-duplicates-sql-server/
 
 --Sakila to the CustomerDim
 
